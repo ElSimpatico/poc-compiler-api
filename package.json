@@ -4,7 +4,7 @@
     "description": "proof of concept to get information about angular files with typescript compiler api",
     "main": "main.ts",
     "scripts": {
-        "start": "ts-node src/main.ts",
+        "start": "ts-node main.ts",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "Aaron Velasco",

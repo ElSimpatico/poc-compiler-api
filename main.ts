@@ -1,6 +1,6 @@
 import * as process from 'process';
-import { Context } from './context';
-import { PropertyReport } from './property-report';
+import { Context } from './src/context';
+import { PropertyReport } from './src/property-report';
 
 const workspace = process.argv[2] ? process.argv[2] : process.cwd();
 
